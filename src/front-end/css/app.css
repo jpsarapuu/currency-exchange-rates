@@ -1,0 +1,7 @@
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
+
+* {
+    outline-style: none !important;
+}
